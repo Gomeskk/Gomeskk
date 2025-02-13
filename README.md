@@ -108,7 +108,8 @@ I’m open to working on collaborative projects etc need to work here
 ### Contact Me ⬇️
 <p align="left">
   <a href="https://www.linkedin.com/in/joão-gomes-291b60253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="João Gomes" height="30" width="40" /></a>
-  <a href="mailto:gomesj778@gmail.com)"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Email" height="30" width="40" />
+  <a href="mailto:gomesj778@gmail.com">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
 
