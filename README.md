@@ -84,7 +84,7 @@ Here is a summary of my progress at 42 Lisbon:
 ## GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Gomeskk&show_icons=true&theme=algolia)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gomeskk&theme=algolia)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gomeskk&theme=algolia)](https://git.io/streak-stats)-->
 
 <!--
 ## Collaboration
