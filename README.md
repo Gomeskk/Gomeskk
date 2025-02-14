@@ -1,18 +1,32 @@
 <div>
   <p align="center">
-    <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Welcome to my profile </h1>
+    <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey there! I'm João Gomes </h1>
   <p align="center">
 	  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=42+Student;C+and+Linux+Enthusiast;Always+learning+new+things&center=true&width=450&height=50"></a>
   </p>
 </div>
-
-
-## 👨🏻‍💻 About Me
+  <p>
+    <h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTh4ZzYxNXgydzdvODU4Z3lrbm5hd2V3OXIxM3MxYnljY2p5eWN6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif" width="60"> About me </h2>
+  <p>
+	  
+<p>
+  I’m a Computer Science student and aspiring software developer currently studying at <strong>42 Lisbon</strong>. I enjoy solving problems, embracing creativity, and learning something new every day.
+</p>
+<ul>
+  <li>I'm in the <strong>Student Association</strong> at 42</li>
+  <li>I'm part of the <strong>GameDev club</strong> at 42</li>
+  <li>Pursuing <strong>Full Stack Development</strong></li>
+  <li>Currently <strong>learning Python</strong></li>
+</ul>
 
 <!--
-### 🔭 Current Projects
-- **CRM Software:** Building a CRM for an insurance broker using **Python**, **Tailwind**, and **JavaScript**.
-- **42 School Projects:** Improving my skills in C and C++ with projects like `Minishell`, `Minirt` and `Webserv`.
+  ### 🤝🏻 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/joão-gomes-291b60253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="João Gomes" height="30" width="40" /></a>
+  <a href="mailto:gomesj778@gmail.com">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" height="30" width="40" />
+  </a>
+</p>
 -->
 
 ## 🏆 42 Progress
@@ -112,13 +126,15 @@ Here is a summary of my progress at 42 Lisbon:
 I’m open to working on collaborative projects etc need to work here
 -->
 
-### 🤝🏻 Connect with Me
+
+# 🤝🏻 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/joão-gomes-291b60253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="João Gomes" height="30" width="40" /></a>
   <a href="mailto:gomesj778@gmail.com">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
+
 
 <!--
 - **Email:** [gomesj778@gmail.com](mailto:gomesj778@gmail.com)
