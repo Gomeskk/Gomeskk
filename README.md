@@ -61,7 +61,7 @@ Here is a summary of my progress at 42 Lisbon:
     <td>✅ 125%</td>
   </tr>
   <tr>
-    <td><b>Born2beroot</b></td>
+    <td><a href="https://github.com/Gomeskk/Born2beroot"><b>Born2beroot</a></b></td>
     <td>[System Administration] [Security and Hardening] [Troubleshooting and Maintenance]</td>
     <td>✅ 110%</td>
   </tr>
