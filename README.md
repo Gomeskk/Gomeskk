@@ -1,6 +1,13 @@
-## Hi there 👋
+<div>
+  <p align="center">
+    <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Welcome to my profile </h1>
+  <p align="center">
+	  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=42+Student;C+and+Linux+Enthusiast;Always+learning+new+things&center=true&width=450&height=50"></a>
+  </p>
+</div>
 
-## About Me
+
+## 👨🏻‍💻 About Me
 
 <!--
 ### 🔭 Current Projects
@@ -70,7 +77,7 @@ Here is a summary of my progress at 42 Lisbon:
   </tr>
 </table>
 
-## Skills
+## 🛠️ Skills
 
 ### Languages
 <div align="center">
@@ -105,7 +112,7 @@ Here is a summary of my progress at 42 Lisbon:
 I’m open to working on collaborative projects etc need to work here
 -->
 
-### Contact Me ⬇️
+### 🤝🏻 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/joão-gomes-291b60253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="João Gomes" height="30" width="40" /></a>
   <a href="mailto:gomesj778@gmail.com">
