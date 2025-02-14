@@ -18,6 +18,7 @@
   <li>Pursuing <strong>Full Stack Development</strong></li>
   <li>Currently <strong>learning Python</strong></li>
 </ul>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gomeskk&label=Profile%20views&color=0e75b6&style=flat" alt="Gomeskk" /> </p>
 
 <!--
   ### 🤝🏻 Connect with Me
