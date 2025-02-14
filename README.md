@@ -10,13 +10,13 @@
   <p>
 	  
 <p>
-  I’m a Computer Science student and aspiring software developer currently studying at <strong>42 Lisbon</strong>. I enjoy solving problems, embracing creativity, and learning something new every day.
+  I’m a <strong>Computer Science student</strong> and aspiring <strong>software developer</strong> currently studying at <strong>42 Lisbon</strong>. My passion lies in solving complex problems, fostering creativity, and continuously learning new technologies to improve my skills.
 </p>
 <ul>
-  <li>I'm in the <strong>Student Association</strong> at 42</li>
-  <li>I'm part of the <strong>GameDev club</strong> at 42</li>
-  <li>Pursuing <strong>Full Stack Development</strong></li>
-  <li>Currently <strong>learning Python</strong></li>
+  <li>Active member of the <strong>Student Association</strong> at 42</li>
+  <li>Engaged in the <strong>GameDev club</strong> at 42, where I explore game development</li>
+  <li>Pursuing expertise in <strong>Full Stack Development</strong> and <strong>game development</strong></li>
+  <li>Currently diving into <strong>Python</strong> to expand my programming skills</li>
 </ul>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gomeskk&label=Profile%20views&color=0e75b6&style=flat" alt="Gomeskk" /> </p>
 
