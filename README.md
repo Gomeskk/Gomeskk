@@ -110,8 +110,8 @@ Here is a summary of my progress at 42 Lisbon:
 
 ## GitHub Stats
 <div align="center">
-  <img height="198.5em" src="https://github-readme-stats.vercel.app/api?username=Gomeskk&show_icons=true&theme=holi" alt="Your GitHub stats">
-  <img height="198.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gomeskk&layout=compact&langs_count=8&theme=holi"/>
+  <img height="199.5em" src="https://github-readme-stats.vercel.app/api?username=Gomeskk&show_icons=true&theme=holi" alt="Your GitHub stats">
+  <img height="199.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gomeskk&layout=compact&langs_count=8&theme=holi"/>
 </div>
 
 <picture>
