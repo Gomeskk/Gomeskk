@@ -113,6 +113,13 @@ Here is a summary of my progress at 42 Lisbon:
   <img src="https://github-readme-stats.vercel.app/api?username=Gomeskk&show_icons=true&theme=holi" alt="Your GitHub stats">
   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gomeskk&layout=compact&langs_count=8&theme=holi"/>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gomeskk/Gomeskk/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gomeskk/Gomeskk/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Gomeskk/Gomeskk/output/pacman-contribution-graph.svg">
+</picture>
+
 <!--
 <div align="center">
   <a href="https://git.io/streak-stats">
