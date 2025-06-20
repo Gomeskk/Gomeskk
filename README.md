@@ -97,14 +97,14 @@ Here is a summary of my progress at 42 Lisbon:
 ### Languages
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,bash,python,nodejs,html,css" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,bash,python,nodejs,html,css" alt="Skill Icons" />
   </a>
 </div>
 
 ### Tools & Technologies
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,vscode,vim,git,github" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=linux,vscode,vim,git,github,godot" alt="Skill Icons" />
   </a>
 </div>
 
