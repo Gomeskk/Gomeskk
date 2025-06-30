@@ -86,9 +86,14 @@ Here is a summary of my progress at 42 Lisbon:
     <td>✅ 100%</td>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/Gomeskk">Minishell</a></b></td>
+    <td><b><a href="https://github.com/Gomeskk/Minishell">Minishell</a></b></td>
     <td>[Parsing and Tokenization] [Process Management] [Signal Handling and Built-ins]</td>
-    <td>On Progress</td>
+    <td>✅ 125%</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/Gomeskk">NetPractice</a></b></td>
+    <td>[IP Addressing] [Subnetting] [Network Routing]</td>
+    <td>In progress</td>
   </tr>
 </table>
 
