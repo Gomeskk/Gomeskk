@@ -93,7 +93,12 @@ Here is a summary of my progress at 42 Lisbon:
   <tr>
     <td><b><a href="https://github.com/Gomeskk">NetPractice</a></b></td>
     <td>[IP Addressing] [Subnetting] [Network Routing]</td>
-    <td>✅ 125%</td>
+    <td>✅ 100%</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/Gomeskk">CPP Modules</a></b></td>
+    <td></td>
+    <td>Progressing</td>
   </tr>
 </table>
 
