@@ -100,6 +100,11 @@ Here is a summary of my progress at 42 Lisbon:
     <td></td>
     <td>Progressing</td>
   </tr>
+  <tr>
+    <td><b><a href="https://github.com/Gomeskk">Cub3d</a></b></td>
+    <td></td>
+    <td>Progressing</td>
+  </tr>
 </table>
 
 ## 🛠️ Skills
