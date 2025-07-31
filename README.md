@@ -96,7 +96,7 @@ Here is a summary of my progress at 42 Lisbon:
     <td>✅ 100%</td>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/Gomeskk">CPP Modules</a></b></td>
+    <td><b><a href="https://github.com/Gomeskk/CPP-Modules">CPP Modules</a></b></td>
     <td></td>
     <td>Progressing</td>
   </tr>
