@@ -103,7 +103,7 @@ Here is a summary of my progress at 42 Lisbon:
   <tr>
     <td><b><a href="https://github.com/Gomeskk/Cub3d">Cub3d</a></b></td>
     <td></td>
-    <td>Progressing</td>
+    <td>✅ 125%</td>
   </tr>
 </table>
 
