@@ -102,7 +102,7 @@ Here is a summary of my progress at 42 Lisbon:
   </tr>
   <tr>
     <td><b><a href="https://github.com/Gomeskk/Cub3d">Cub3d</a></b></td>
-    <td></td>
+    <td>[Raycasting Engine] [Map Parsing and Validation] [Texture Mapping and Rendering]</td>
     <td>✅ 125%</td>
   </tr>
 </table>
