@@ -105,6 +105,16 @@ Here is a summary of my progress at 42 Lisbon:
     <td>[Raycasting Engine] [Map Parsing and Validation] [Texture Mapping and Rendering]</td>
     <td>✅ 125%</td>
   </tr>
+  <tr>
+    <td><b><a>IRC</a></b></td>
+    <td></td>
+    <td>Progressing</td>
+  </tr>
+  <tr>
+    <td><b><a>Inception</a></b></td>
+    <td></td>
+    <td>Progressing</td>
+  </tr>
 </table>
 
 ## 🛠️ Skills
